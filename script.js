@@ -35,6 +35,6 @@ let cadastro=[{
     amigos:['Tiago','Paulo','Estevão','Davi']
 }]
 
-for(let cont=0;cont<=5;cont++){
+for(let cont=0;cont<=4;cont++){
     console.log(cadastro[cont].amigos[0])
 }
